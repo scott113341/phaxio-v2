@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../src/test/index.js"],"names":[],"mappings":";;AAAA;;AAEA","file":"index.js","sourcesContent":["import 'source-map-support/register';\n\nimport './client.js';\n"]}
