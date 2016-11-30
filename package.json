@@ -1,7 +1,7 @@
 {
   "name": "phaxio-v2",
   "version": "0.0.0",
-  "description": "Phaxio node.js client.",
+  "description": "Phaxio Node.js client.",
   "author": "Scott Hardy",
   "license": "MIT",
   "repository": "git@github.com:scott113341/phaxio-v2.git",

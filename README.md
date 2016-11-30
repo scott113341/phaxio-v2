@@ -6,7 +6,7 @@
 [![dev-dependencies][dev-dependencies-badge]][dev-dependencies-href]
 
 
-Phaxio node.js client.
+Phaxio Node.js client.
 
 `npm install phaxio-v2`
 
