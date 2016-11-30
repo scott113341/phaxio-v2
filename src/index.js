@@ -1,1 +1,3 @@
-import something from './something.js';
+import { default as Client } from './client.js';
+
+export default Client;
